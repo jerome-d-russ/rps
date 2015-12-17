@@ -1,0 +1,22 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "Rock, Paper, Scissors via SMS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerome-d-russ/rps.git"
+  },
+  "author": "Jerome Russ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerome-d-russ/rps/issues"
+  },
+  "homepage": "https://github.com/jerome-d-russ/rps#readme",
+  "dependencies": {
+    "twilio": "^2.7.0"
+  }
+}
